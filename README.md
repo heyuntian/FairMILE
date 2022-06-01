@@ -9,7 +9,7 @@ We have seven real-world datasets in our experiments. Namely, they are:
 * **Node classification**: German, Bail (Recidivism), Credit, and Pokec-n
 * **Link prediction**: Cora, Citeseer, Pubmed
 
-This repository only includes pre-processed data for node classification datasets. You can download raw data for all datasets at [this link](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/he_1773_buckeyemail_osu_edu/EpTr3LaSplJOsfnny_2WnNQBr6hCmcG2AX5UFKj11x5zhA?e=qavTYn). 
+This repository only includes pre-processed data for node classification datasets (except Pokec-n). You can download raw data for all datasets (and pre-processed Pokec-n) at [this link](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/he_1773_buckeyemail_osu_edu/EpTr3LaSplJOsfnny_2WnNQBr6hCmcG2AX5UFKj11x5zhA?e=qavTYn). 
 
 Pre-processed data for node classification datasets can be rebuilt using `preprocess.py`. For link prediction datasets, it will automatically process the raw data in `datasets/raw/{dataset}` and store the processed version at the time of first use. Processed link prediction datasets are stored in `datasets/{dataset}/{seed}`.
 
