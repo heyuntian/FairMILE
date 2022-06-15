@@ -23,9 +23,9 @@ To run the vanilla NetMF, simply add an argument `--baseline`:
 
 ### Link Prediction
 To run FairMILE or baselines in link prediction tasks, please add an argument `--task lp`:
-> python main.py --data cora --basic-embed node2vec --coarsen-level 2
+> python main.py --task lp --data cora --basic-embed node2vec --coarsen-level 2
 
-> python main.py --data cora --basic-embed node2vec --baseline
+> python main.py --task lp --data cora --basic-embed node2vec --baseline
 
 ### Arguments
 Please check `main.py` for a comprehensive list of arguments.
