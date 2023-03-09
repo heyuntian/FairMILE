@@ -1,5 +1,5 @@
 # FairMILE
-Code and data for our submission 'FairMILE: A Multi-Level Framework for Fair and Scalable Graph Representation Learning' to VLDB 2023.
+Code and data for our demo 'Efficient Fair Graph Representation Learning Using a Multi-level Framework' in WWW '23.
 
 ## Requirements
 Our codes are implemented in Python 3.8. All required packages are included in `requirements.yml`.
