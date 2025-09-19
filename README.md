@@ -1,5 +1,15 @@
 # FairMILE
-Code and data for our demo 'Efficient Fair Graph Representation Learning Using a Multi-level Framework' in WWW '23.
+Code and data for our paper 'FairMILE: Towards an efficient framework for fair graph representation learning' in EAAMO '23.
+
+Link: https://par.nsf.gov/servlets/purl/10508212
+
+Citation: @inproceedings{he2023fairmile,
+  title={FairMILE: Towards an efficient framework for fair graph representation learning},
+  author={He, Yuntian and Gurukar, Saket and Parthasarathy, Srinivasan},
+  booktitle={Proceedings of the 3rd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization},
+  pages={1--10},
+  year={2023}
+}
 
 ## Requirements
 Our codes are implemented in Python 3.8. All required packages are included in `requirements.yml`.
