@@ -3,7 +3,7 @@ Code and data for our paper 'FairMILE: Towards an efficient framework for fair g
 
 Link: https://par.nsf.gov/servlets/purl/10508212
 
-Citation: @inproceedings{he2023fairmile,
+> Citation: @inproceedings{he2023fairmile,
   title={FairMILE: Towards an efficient framework for fair graph representation learning},
   author={He, Yuntian and Gurukar, Saket and Parthasarathy, Srinivasan},
   booktitle={Proceedings of the 3rd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization},
